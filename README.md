@@ -1,6 +1,6 @@
 # Hi, I am Kunal Batham! Great to see you here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px">
 <!-- Typing SVG by KunalBatham2701 - https://github.com/KunalBatham2701/readme-typing-svg -->
-<p align="center">
+<p align="left">
   <a href="https://github.com/KunalBatham2701/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=first-line%20of%20mine!;hmm;Alwaydsf%20leardfning%20ndfdew%20thindffgs.&font=Fira%20Code&center=true&width=440&height=45&color=61CC8C&vCenter=true&size=22"></a>
 </p>
 
@@ -18,7 +18,7 @@ I am Kunal Batham, currently pursuing my B.Tech degree in Information Technology
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunal-batham-1187551b7/)](https://www.linkedin.com/in/kunal-batham-1187551b7/)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/745686149359599707)
 
-<h2 align='center'><i><a href="https://github.com/KunalBatham2701/github-readme-activity-graph">Kunal's Contribution Graph 📈</i></h2>
+<!-- <h2 align='center'><i><a href="https://github.com/KunalBatham2701/github-readme-activity-graph">Kunal's Contribution Graph 📈</i></h2> -->
 <p align="center">
 <a href="https://github.com/KunalBathma2701/github-readme-activity-graph">
  <img src="https://activity-graph.herokuapp.com/graph?username=KunalBatham2701&theme=react-dark&area=true&hide_border=true" width="100%">
