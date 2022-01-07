@@ -1,6 +1,18 @@
 # Hi, I am Kunal Batham! Great to see you here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px">
+<!-- Typing SVG by KunalBatham2701 - https://github.com/KunalBatham2701/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/KunalBatham2701/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=first-line%20of%20mine!;hmm;Alwaydsf%20leardfning%20ndfdew%20thindffgs.&font=Fira%20Code&center=true&width=440&height=45&color=61CC8C&vCenter=true&size=22"></a>
+</p>
 
 I am Kunal Batham, currently pursuing my B.Tech degree in Information Technology from [GLA UNIVERSITY, MATHURA]. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+
+- 🔭 I’m currently working on *OOPs*
+- 🌱 I’m currently learning *Java*
+- 👯 I’m looking to collaborate on *C/Python*
+- 💬 Ask me about CS
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KunalBatham2701&label=Profile%20views&color=0e75b6&style=flat" alt="KunalBatham2701" /> </p>
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kunal.batham_cs20@gla.ac.in)](mailto:kunal.batham_cs20@gla.ac.in)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunal-batham-1187551b7/)](https://www.linkedin.com/in/kunal-batham-1187551b7/)
@@ -73,6 +85,6 @@ I am Kunal Batham, currently pursuing my B.Tech degree in Information Technology
 5. ❗️ Closed issue [#108](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/issues/108) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
 <!--END_SECTION:activity-->
 ![snake gif](https://github.com/KunalBatham2701/KunalBatham2701/blob/output/github-contribution-grid-snake.gif)
-
+<h6 align= "center">Show Some ❤ by giving ⭐ to my Reposiotries</h6>
 
 <!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
