@@ -4,7 +4,7 @@
   <a href="https://github.com/KunalBatham2701/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=fidfrst-lidfne%20odff%20msdfine!;sfsdf;Alwdfaydsf%20ledardfning%20ndfddew%20thidndffgs.&font=Fira%20Code&left=true&width=440&height=45&color=61CC8C&vleft=true&size=22"></a>
 </p>
 <!--  -->
-I am Kunal Batham, currently pursuing my B.Tech degree in Information Technology from [GLA UNIVERSITY, MATHURA]. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Kunal Batham, currently pursuing my B.Tech degree in Computer Science from [GLA UNIVERSITY, MATHURA]. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas.
 
 - 🔭 I’m currently working on *OOPs*
 - 🌱 I’m currently learning *Java*
@@ -24,7 +24,8 @@ I am Kunal Batham, currently pursuing my B.Tech degree in Information Technology
  <img src="https://activity-graph.herokuapp.com/graph?username=KunalBatham2701&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KunalBatham2701" alt="KunalBatham2701" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=KunalBatham2701&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KunalBatham2701" alt="KunalBatham2701" /></a> </p> -->
 <!-- [![Kunal's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=KunalBatham2701&theme=xcode)](https://github.com/KunalBatham2701) -->
 
 ## 👨🏻‍💻 Coding Profiles
@@ -36,7 +37,7 @@ I am Kunal Batham, currently pursuing my B.Tech degree in Information Technology
 
 ## ⚡ Technologies
 
-### Language
+### Languages
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
