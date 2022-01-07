@@ -1,7 +1,7 @@
 # Hi, I am Kunal Batham! Great to see you here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px">
 <!-- Typing SVG by KunalBatham2701 - https://github.com/KunalBatham2701/readme-typing-svg -->
 <p align="left">
-  <a href="https://github.com/KunalBatham2701/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=fidfrst-lidfne%20odff%20msdfine!;sfsdf;Alwdfaydsf%20ledardfning%20ndfddew%20thidndffgs.&font=Fira%20Code&center=true&width=440&height=45&color=61CC8C&vLeft=true&size=22"></a>
+  <a href="https://github.com/KunalBatham2701/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=fidfrst-lidfne%20odff%20msdfine!;sfsdf;Alwdfaydsf%20ledardfning%20ndfddew%20thidndffgs.&font=Fira%20Code&left=true&width=440&height=45&color=61CC8C&vleft=true&size=22"></a>
 </p>
 
 I am Kunal Batham, currently pursuing my B.Tech degree in Information Technology from [GLA UNIVERSITY, MATHURA]. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
