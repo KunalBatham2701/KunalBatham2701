@@ -24,6 +24,7 @@ I am Kunal Batham, currently pursuing my B.Tech degree in Information Technology
  <img src="https://activity-graph.herokuapp.com/graph?username=KunalBatham2701&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KunalBatham2701" alt="KunalBatham2701" /></a> </p>
 <!-- [![Kunal's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=KunalBatham2701&theme=xcode)](https://github.com/KunalBatham2701) -->
 
 ## 👨🏻‍💻 Coding Profiles
