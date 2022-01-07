@@ -18,8 +18,13 @@ I am Kunal Batham, currently pursuing my B.Tech degree in Information Technology
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunal-batham-1187551b7/)](https://www.linkedin.com/in/kunal-batham-1187551b7/)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/745686149359599707)
 
-
-[![Kunal's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=KunalBatham2701&theme=xcode)](https://github.com/KunalBatham2701)
+<h2 align='center'><i><a href="https://github.com/KunalBatham2701/github-readme-activity-graph">Kunal's Contribution Graph 📈</i></h2>
+<p align="center">
+<a href="https://github.com/KunalBathma2701/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=KunalBatham2701&theme=react-dark&area=true&hide_border=true" width="100%">
+</a>
+</p>
+<!-- [![Kunal's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=KunalBatham2701&theme=xcode)](https://github.com/KunalBatham2701) -->
 
 ## 👨🏻‍💻 Coding Profiles
 
