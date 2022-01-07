@@ -3,11 +3,11 @@
 I am Kunal Batham, currently pursuing my B.Tech degree in Information Technology from [GLA UNIVERSITY, MATHURA]. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kunal.batham_cs20@gla.ac.in)](mailto:kunal.batham_cs20@gla.ac.in)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunal batham/)](https://www.linkedin.com/in/kunal batham/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunal-batham-1187551b7/)](https://www.linkedin.com/in/kunal-batham-1187551b7/)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/745686149359599707)
 
 
-[![Pranay's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=thepranaygupta&theme=xcode)](https://github.com/thepranaygupta)
+[![Kunal's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=KunalBatham2701&theme=xcode)](https://github.com/KunalBatham)
 
 ## 👨🏻‍💻 Coding Profiles
 
