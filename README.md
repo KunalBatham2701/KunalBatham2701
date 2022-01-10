@@ -25,7 +25,7 @@ I am Kunal Batham, currently pursuing my B.Tech degree in Computer Science from 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KunalBatham2701&theme=onedark" alt="KunalBatham2701" /></a> </p>
 <!-- [![Kunal's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=KunalBatham2701&theme=xcode)](https://github.com/KunalBatham2701) -->
 
-## 🤝 Connect With Me :
+## Connect With Me:
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kunal.batham_cs20@gla.ac.in)](mailto:kunal.batham_cs20@gla.ac.in)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunal-batham-1187551b7/)](https://www.linkedin.com/in/kunal-batham-1187551b7/)
