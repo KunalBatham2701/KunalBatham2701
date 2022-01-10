@@ -1,10 +1,11 @@
 # Hi, I am Kunal Batham! Great to see you here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px">
 <!-- Typing SVG by KunalBatham2701 - https://github.com/KunalBatham2701/readme-typing-svg -->
 <p align="left">
-  <a href="https://github.com/KunalBatham2701/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=fidfrst-lidfne%20odff%20msdfine!;sfsdf;Alwdfaydsf%20ledardfning%20ndfddew%20thidndffgs.&font=Fira%20Code&left=true&width=440&height=45&color=61CC8C&vleft=true&size=22"></a>
+  <a href="https://github.com/KunalBatham2701/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=hii i am kunal%20i like to explore new, different and creative%20things!;i love coding ❤;I like to %20learn%20new%20Technologies.&font=Fira%20Code&left=true&width=440&height=45&color=61CC8C&vleft=true&size=22"></a>
 </p>
-<!--  -->
+
 I am Kunal Batham, currently pursuing my B.Tech degree in Computer Science from [GLA UNIVERSITY, MATHURA]. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas.
+
 
 - 🔭 I’m currently working on *OOPs*
 - 🌱 I’m currently learning *Java*
@@ -13,7 +14,7 @@ I am Kunal Batham, currently pursuing my B.Tech degree in Computer Science from 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KunalBatham2701&label=Profile%20views&color=0e75b6&style=flat" alt="KunalBatham2701" /> </p>
-
+<h3 align="left">Connect with me : </h3>
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kunal.batham_cs20@gla.ac.in)](mailto:kunal.batham_cs20@gla.ac.in)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunal-batham-1187551b7/)](https://www.linkedin.com/in/kunal-batham-1187551b7/)
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/745686149359599707)
