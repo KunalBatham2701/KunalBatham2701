@@ -14,10 +14,6 @@ I am Kunal Batham, currently pursuing my B.Tech degree in Computer Science from 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KunalBatham2701&label=Profile%20views&color=0e75b6&style=flat" alt="KunalBatham2701" /> </p>
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kunal.batham_cs20@gla.ac.in)](mailto:kunal.batham_cs20@gla.ac.in)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunal-batham-1187551b7/)](https://www.linkedin.com/in/kunal-batham-1187551b7/)
-[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/745686149359599707)
-
 <!-- <h2 align='center'><i><a href="https://github.com/KunalBatham2701/github-readme-activity-graph">Kunal's Contribution Graph 📈</i></h2> -->
 <p align="center">
 <a href="https://github.com/KunalBathma2701/github-readme-activity-graph">
@@ -28,6 +24,10 @@ I am Kunal Batham, currently pursuing my B.Tech degree in Computer Science from 
 <!-- <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=KunalBatham2701&theme=onedark"><img src="https://github.com/KunalBatham2701/github-profile-trophy" alt="KunalBatham2701" /></a> </p> -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KunalBatham2701&theme=onedark" alt="KunalBatham2701" /></a> </p>
 <!-- [![Kunal's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=KunalBatham2701&theme=xcode)](https://github.com/KunalBatham2701) -->
+
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kunal.batham_cs20@gla.ac.in)](mailto:kunal.batham_cs20@gla.ac.in)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunal-batham-1187551b7/)](https://www.linkedin.com/in/kunal-batham-1187551b7/)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/745686149359599707)
 
 ## 👨🏻‍💻 Coding Profiles
 
