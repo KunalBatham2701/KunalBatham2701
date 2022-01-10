@@ -6,11 +6,11 @@
 <!--  -->
 I am Kunal Batham, currently pursuing my B.Tech degree in Computer Science from [GLA UNIVERSITY, MATHURA]. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas.
 
-- 🔭 I’m currently working on *OOPs*
-- 🌱 I’m currently learning *Java*
-- 👯 I’m looking to collaborate on *C/Python*
-- 💬 Ask me about CS
-
+- 🔭 I’m currently working on *Web Development*
+- 🌱 I’m currently learning *Data Structures and Algorithms*
+- 👯 I’m looking to collaborate on *C/Python/Java/C++*
+- 🚀 I'm Interested in making *IOT Projects*
+- 💬 Ask me about *CS*
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KunalBatham2701&label=Profile%20views&color=0e75b6&style=flat" alt="KunalBatham2701" /> </p>
 
