@@ -66,7 +66,7 @@ I am Kunal Batham, currently pursuing my B.Tech degree in Computer Science from 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 <!-- ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
-![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)<!-- ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean) --> -->
+![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)<!-- ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean) -->
 
 <!-- ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
@@ -94,7 +94,7 @@ I am Kunal Batham, currently pursuing my B.Tech degree in Computer Science from 
 2. 🗣 Commented on [#6](https://github.com/Dezenix/frontend-reactjs/issues/6) in [Dezenix/frontend-reactjs](https://github.com/Dezenix/frontend-reactjs)
 3. 🗣 Commented on [#6](https://github.com/Dezenix/frontend-reactjs/issues/6) in [Dezenix/frontend-reactjs](https://github.com/Dezenix/frontend-reactjs)
 4. 🗣 Commented on [#69](https://github.com/Dezenix/frontend-html-css-js/issues/69) in [Dezenix/frontend-html-css-js](https://github.com/Dezenix/frontend-html-css-js)
-5. ❗️ Closed issue [#108](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/issues/108) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
+5. ❗ Closed issue [#108](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/issues/108) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
 <!--END_SECTION:activity-->
 ![snake gif](https://github.com/KunalBatham2701/KunalBatham2701/blob/output/github-contribution-grid-snake.gif)
 <h6 align= "center">Show Some ❤ by giving ⭐ to my Reposiotries</h6>
