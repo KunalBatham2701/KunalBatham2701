@@ -75,6 +75,26 @@ I am Kunal Batham, currently pursuing my B.Tech degree in Computer Science from 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)  -->
+<!-- ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat&logo=Tailwind-CSS)
+  ![NextJS](https://img.shields.io/badge/-NextJS-333?logo=Next.js)
+  ![Material UI](https://img.shields.io/badge/-Material%20UI-333?style=flat&logo=Material-UI)
+- 📶 &nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node%20JS-333?style=flat&logo=Node.js)
+  ![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=Express)
+  ![Socket.io](https://img.shields.io/badge/-Socket.io-333?style=flat&logo=Socket.io)
+- 🛢 &nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
+  ![FireStore](https://img.shields.io/badge/-FireStore-333?style=flat&logo=Firebase)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333?style=flat&logo=markdown)
+- 🔧 &nbsp; -->
 
 ## 📈 Stats
 
