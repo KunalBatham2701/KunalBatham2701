@@ -58,6 +58,7 @@ I am Kunal Batham, currently pursuing my B.Tech degree in Computer Science from 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)](https://getbootstrap.com/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://reactjs.org/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://nodejs.org/)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat&logo=Tailwind-CSS)
 <!-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white) -->
 
 ### Tools
