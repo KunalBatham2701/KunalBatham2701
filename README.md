@@ -5,7 +5,7 @@
   <a href="https://github.com/KunalBatham2701/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20I%20am%20Kunal!;I%20Like%20to%20Explore%20new%20Coding%20Languages;I%20Love%20Coding%20❤;I%20Like%20to%20learn%20new%20Technologies.&font=Fira%20Code&left=true&width=440&height=45&color=61CC8C&vleft=true&size=22"></a>
 </p>
 <!--  -->
-I am Kunal Batham, currently pursuing my B.Tech degree in Computer Science from [GLA UNIVERSITY, MATHURA]. I am a tech enthusiast & an open-source advocate. I am always open to collaborat on projects and innovative/disruptive ideas.
+I am Kunal Batham, currently pursuing my B.Tech degree in Computer Science from [GLA UNIVERSITY, MATHURA]. I am a tech enthusiast & an open-source advocate. I am always open to collaborate on projects and innovative/disruptive ideas.
 
 - 🔭 I’m currently working on *Web Development*
 - 🌱 I’m currently learning *Data Structures and Algorithms*
