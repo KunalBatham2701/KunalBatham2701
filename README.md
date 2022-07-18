@@ -123,6 +123,6 @@ I am Kunal Batham, currently pursuing my B.Tech degree in Computer Science from 
 5. ✅ Closed issue [#108](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/issues/108) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
 <!--END_SECTION:activity-->
 ![snake gif](https://github.com/KunalBatham2701/KunalBatham2701/blob/output/github-contribution-grid-snake.gif)
-<-- <h6 align= "center">Show Some ❤ by giving ⭐ to my Reposiotries</h6> -->
+<!-- <h6 align= "center">Show Some ❤ by giving ⭐ to my Reposiotries</h6>  -->
 
 <!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
