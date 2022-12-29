@@ -73,7 +73,7 @@ I am Kunal Batham, currently pursuing my B.Tech degree in Computer Science from 
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 
 ### Holopin Badges 
-[![@KunalBatham2701's Holopin board](https://holopin.me/KunalBatham2701)](https://holopin.io/@KunalBatham2701)
+[![@KunalBatham2701's Holopin board](https://holopin.me/kunalbatham_cs20)](https://holopin.io/@kunalbatham_cs20)
 <!-- ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)<!-- ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean) -->
 
