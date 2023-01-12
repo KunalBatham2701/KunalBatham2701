@@ -18,9 +18,9 @@ I am Kunal Batham, currently pursuing my B.Tech degree in Computer Science from 
 <!-- <h2 align='center'><i><a href="https://github.com/KunalBatham2701/github-readme-activity-graph">My Contribution Graph 📈</i></h2> -->
 <div align="center">
   <h2>My GitHub Stats <a href="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif"><img align="center" src="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif" height="40" alt="DataChart-gif"></a> </h2>
-<a href="https://github.com/KunalBatham2701/github-readme-activity-graph#gh-light-mode-only">
+<!-- <a href="https://github.com/KunalBatham2701/github-readme-activity-graph#gh-light-mode-only">
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=KunalBatham2701&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
-</a>
+</a> -->
 <a href="https://github.com/KunalBatham2701/github-readme-activity-graph#gh-dark-mode-only">
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=KunalBatham2701&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </a>
