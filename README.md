@@ -23,7 +23,7 @@ I am Kunal Batham, currently pursuing my B.Tech degree in Computer Science from 
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=KunalBatham2701&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
 </a> -->
 <a href="https://github.com/KunalBatham2701/github-readme-activity-graph#gh-dark-mode-only">
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=KunalBatham2701&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=KunalBatham2701&theme=modern-lilac&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </a>
  <br><br>
 </div>
