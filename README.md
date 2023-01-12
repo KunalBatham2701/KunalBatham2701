@@ -16,12 +16,21 @@ I am Kunal Batham, currently pursuing my B.Tech degree in Computer Science from 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KunalBatham2701&label=Profile%20views&color=0e75b6&style=flat" alt="KunalBatham2701" /> </p>
 
 <!-- <h2 align='center'><i><a href="https://github.com/KunalBatham2701/github-readme-activity-graph">My Contribution Graph 📈</i></h2> -->
-<a href="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif"><img align="center" src="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif" height="40" alt="DataChart-gif"></a>&#160; 
 <p align="center">
+<a href="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif"><img align="center" src="https://media.giphy.com/media/MF3pE1wwVczhKkaSlg/giphy.gif" height="40" alt="DataChart-gif"></a>&#160; 
+<h2 align='center'><i><a href="https://github.com/KunalBatham2701/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<a href="https://github.com/KunalBatham2701/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=KunalBatham2701&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/KunalBatham2701/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=KunalBatham2701&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
+</p>
+<!-- <p align="center"> -->
 <!-- <a href="https://github.com/KunalBathma2701/github-readme-activity-graph">
  <img src="https://activity-graph.herokuapp.com/graph?username=KunalBatham2701&theme=react-dark&area=true&hide_border=true" width="100%">
 </a> -->
-</p>
+<!-- </p> -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=KunalBatham2701&theme=onedark)](https://github.com/KunalBatham2701/github-profile-trophy) -->
 <!-- <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=KunalBatham2701&theme=onedark"><img src="https://github.com/KunalBatham2701/github-profile-trophy" alt="KunalBatham2701" /></a> </p> -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KunalBatham2701&theme=onedark" alt="KunalBatham2701" /></a> </p>
