@@ -129,15 +129,8 @@ I am Kunal Batham, currently pursuing my B.Tech degree in Computer Science from 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KunalBatham2701&theme=tokyonight" />
 </p>
 
-## :zap: Recent Activity
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#72](https://github.com/Dezenix/frontend-html-css-js/issues/72) in [Dezenix/frontend-html-css-js](https://github.com/Dezenix/frontend-html-css-js)
-2. 🗣 Commented on [#6](https://github.com/Dezenix/frontend-reactjs/issues/6) in [Dezenix/frontend-reactjs](https://github.com/Dezenix/frontend-reactjs)
-3. 🗣 Commented on [#6](https://github.com/Dezenix/frontend-reactjs/issues/6) in [Dezenix/frontend-reactjs](https://github.com/Dezenix/frontend-reactjs)
-4. 🗣 Commented on [#69](https://github.com/Dezenix/frontend-html-css-js/issues/69) in [Dezenix/frontend-html-css-js](https://github.com/Dezenix/frontend-html-css-js)
-5. ✅ Closed issue [#108](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/issues/108) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
 <!--END_SECTION:activity-->
-![snake gif](https://github.com/KunalBatham2701/KunalBatham2701/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/KunalBatham2701/KunalBatham2701/blob/output/github-contribution-grid-snake.gif) -->
 <!-- <h6 align= "center">Show Some ❤ by giving ⭐ to my Reposiotries</h6>  -->
 
 <!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
